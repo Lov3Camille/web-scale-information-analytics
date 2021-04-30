@@ -1,1 +1,2 @@
-# web-scale-information-analytics
+# web-scale-information-analytic
+several classic algorithms
